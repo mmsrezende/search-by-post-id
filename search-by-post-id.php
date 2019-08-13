@@ -4,7 +4,7 @@ Plugin Name: Search by Post ID
 Description: Enables the user to search by Post ID using the built-in search in all website. Works for all kinds of posts (posts, pages, custom post types and media).
 Version: 1.0
 Author: Marcos Rezende
-Author URI: https://www.linkedin.com/in/rezendemarcos/
+Author URI: https://www.linkedin.com/in/rezehnde/
 */
 new GugelerSearchById();
 
