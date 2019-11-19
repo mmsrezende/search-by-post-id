@@ -6,9 +6,9 @@ Version: 1.0
 Author: Marcos Rezende
 Author URI: https://www.linkedin.com/in/rezehnde/
 */
-new GugelerSearchById();
+new RezehndeSearchById();
 
-class GugelerSearchById
+class RezehndeSearchById
 {
 	function __construct()
 	{
